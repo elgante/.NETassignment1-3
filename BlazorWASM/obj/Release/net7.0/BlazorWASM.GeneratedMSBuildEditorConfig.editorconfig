@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorWASM
+build_property.RootNamespace = BlazorWASM
+build_property.ProjectDir = C:\Users\PinkCat\Documents\S3\DNP2\DNPAssignment1-3\BlazorWASM\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PinkCat\Documents\S3\DNP2\DNPAssignment1-3\BlazorWASM
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/BlockPageWithPolicy.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvY2tQYWdlV2l0aFBvbGljeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/EditPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFBvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/MustBeLoggedInToView.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzdEJlTG9nZ2VkSW5Ub1ZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/ShowCredentialsFromAuthState.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd0NyZWRlbnRpYWxzRnJvbUF1dGhTdGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/ShowCredentialsFromContext.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd0NyZWRlbnRpYWxzRnJvbUNvbnRleHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/CreatePost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlUG9zdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ceegisofnu
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/CreateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-lmj193ty0n
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xm4hp2nt19
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/LoginButtons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5CdXR0b25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7bsgaluun0
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/ViewPost.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1Bvc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i0ygq2nqkk
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Pages/ViewUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1VzZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-b8bn5keb44
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jk00ermrez
+
+[C:/Users/PinkCat/Documents/S3/DNP2/DNPAssignment1-3/BlazorWASM/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-69rflur3ak
